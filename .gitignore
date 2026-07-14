@@ -1,0 +1,12 @@
+# File cache otomatis Python — tidak perlu ikut di-commit
+__pycache__/
+*.pyc
+
+# Output sementara hasil generate (dibuat ulang otomatis oleh lihat_hasil_website.py)
+hasil_grafik.png
+hasil_laporan.html
+grafik_laporan.png
+
+# File environment/virtual environment (kalau ada)
+venv/
+.venv/
